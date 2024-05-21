@@ -3,7 +3,7 @@
 <img align = "right" alt="coding" width="400" src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 # 💫 About Me:
-🌱 Aspiring MERN Developer .<br><br>📫 Reach me : ankitsaini5.in@gmail.com<br><br>⚡ Fun fact I love lizards 😇
+🌱 Aspiring MERN Developer <br><br>📫 Reach me : ankitsaini5.in@gmail.com<br><br>⚡ Fun fact I love lizards 😇
 
 
 ## 🌐 Socials:
